@@ -26,7 +26,7 @@ A powerful application that semantically searches web content using natural lang
 
 ```bash
 # Create and navigate to project directory
-git clone https://github.com/yourusername/web-content-search.git
+git clone https://github.com/galaxyte/Semantic-search.git
 cd web-content-search
 
 # Create virtual environment
