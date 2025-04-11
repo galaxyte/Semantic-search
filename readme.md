@@ -45,7 +45,8 @@ pip install -r requirements.txt
 # If any issue occurs 
 pip install scikit-learn 
 
-cd .. /frontend
+cd ..
+cd frontend # go to frontend dic
 
 npm i # install all the node module
 
