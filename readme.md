@@ -1,4 +1,4 @@
-# Web Content Semantic Search
+# Semantic Search
 
 A powerful application that semantically searches web content using natural language processing. This tool fetches HTML content from any URL, processes it, and allows you to search for relevant information using semantic understanding rather than just keyword matching.
 
@@ -27,7 +27,7 @@ A powerful application that semantically searches web content using natural lang
 ```bash
 # Create and navigate to project directory
 git clone https://github.com/galaxyte/Semantic-search.git
-cd web-content-search
+cd Semantic-search
 
 # Create virtual environment
 cd backend
